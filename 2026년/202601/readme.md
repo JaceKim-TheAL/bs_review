@@ -1,6 +1,7 @@
 ### INDEX
 <table>
   <tr align="center">
+    <td><a href="../">2026년<a></td>
     <td><a href="../202601/">1월<a></td>
     <td><a href="../202602/">2월<a></td>
     <td><a href="../202603/">3월<a></td>
@@ -16,6 +17,7 @@
   </tr>
 </table>
 
+---
 # 2026년 매매일지
 
 ### 1월 (January 2026)
