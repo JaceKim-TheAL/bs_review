@@ -4,7 +4,7 @@
 <table>
   <tr align="center">
     <td><a href="../">2026년<a></td>
-    <td><b href="../202601/">1월<b></td>
+    <td><a href="../202601/">1월<a></td>
     <td><a href="../202602/">2월<a></td>
     <td><a href="../202603/">3월<a></td>
     <td><a href="../202604/">4월<a></td>
