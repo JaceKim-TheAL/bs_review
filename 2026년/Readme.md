@@ -1,5 +1,6 @@
 🏠 > [매매일지][HOME] > `2026년` 
-![HOME]: https://github.com/JaceKim-TheAL/bs_review
+
+[HOME]: https://github.com/JaceKim-TheAL/bs_review
 
 <table>
   <tr align="center">
