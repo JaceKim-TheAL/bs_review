@@ -20,9 +20,9 @@
   </tr>
 </table>
 
-# 2026년 매매일지
+# 2026년 복기차트
 
-[[바로가기]](https://github.com/JaceKim-TheAL/biz_finance/tree/main/kostock/s50_principles/마인드셋팅/매매일지)
+[[매매일지 바로가기]](https://github.com/JaceKim-TheAL/biz_finance/tree/main/kostock/s50_principles/마인드셋팅/매매일지)
 
 ### 1월 (January 2026) 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
