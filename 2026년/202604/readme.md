@@ -811,16 +811,6 @@
 [[TOP]](#index)
 
 ---
-### 2026.04.31
-
-**** 📈 +% 익절
-**** 📉 -% 손절
-
-<br/>
-
-[[TOP]](#index)
-
----
 
 [HOME]: https://github.com/JaceKim-TheAL/bs_review
 [D01]: #20260401
